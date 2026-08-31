@@ -21,20 +21,14 @@ data when the component mounts.
 - Trip budget summary (total destinations + total estimated budget)
 - Option to manually add a new destination
 
-## Screenshots
+## screenshots
 
-### Dashboard with live country data
-
-
-![Dashboard](1.png)
+![Dashboard](screenshots/1.png)
 
 
 
-### Destination cards
 
-
-![Destination Cards](2.png)
-
+![Destination Cards](screenshots/2.png)
 
 
 ## How to Run
